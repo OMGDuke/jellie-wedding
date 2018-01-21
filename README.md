@@ -1,4 +1,4 @@
-# omgduke-v5
+# Jellie Wedding
 Personal site
 
 ## Install
@@ -6,9 +6,6 @@ Personal site
 
 ## Running the project
 `yarn dev`
-
-## Editing the project
-This project uses ejs because of the English and Japanese language support. All translated strings can be found in strings.js and referenced in the ejs file. The build command will then create an English index.html and Japanese index.html
 
 ## Building the project
 `yarn build`
